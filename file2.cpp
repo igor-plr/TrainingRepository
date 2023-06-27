@@ -1,6 +1,9 @@
 //◦ Playrix ◦
 #include "stdafx.h"
 #include "ExpeditionTutorialActions.h"
+#include "ExpeditionTutorialActions.h2"
+#include "ExpeditionTutorialActions.h3"
+
 
 #include "Common/Game/ActionsQueue/ActionsQueue.h"
 #include "GameFeatures/GameEvents/Expedition/Common/IExpeditionTutorialController.h"
